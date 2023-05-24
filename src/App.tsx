@@ -1,7 +1,11 @@
-//import { useState } from 'react'
+import { Home } from "./component/home/home";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <Home></Home>
+    </>
+  );
 }
 
 export default App;
